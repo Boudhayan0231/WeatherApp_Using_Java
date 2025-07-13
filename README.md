@@ -25,7 +25,6 @@ A comprehensive weather application built with Java Swing that provides current 
 
 - Java 8 or higher
 - Internet connection (for API calls)
-- Maven (for dependency management)
 
 ## Dependencies
 
